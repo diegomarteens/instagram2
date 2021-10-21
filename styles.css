@@ -1,0 +1,44 @@
+#publish-button {
+    background-color: rgb(41, 158, 41);
+    color: white;
+}
+
+#cancel-button {
+    background-color: lightgray;
+    color: darkgray;
+    border-color: darkgray;
+}
+
+#instagram {
+    font-family: 'Lobster', cursive;
+}
+
+.nav-link.active {
+    background-color: darkgray;
+
+}
+
+.nav-pills .nav-item .active {
+    background-color: darkgray;
+    color: white;
+}
+
+.nav-pills .nav-item button{
+    color: darkslategray;
+    background-color: white;
+
+}
+
+.nav-pills .nav-item button:hover {
+    background-color: lightgray;
+    color: darkslategray;
+}
+
+.card-body #comment {
+    color: gray;
+}
+img {
+    width: 100%;
+    display: flex;
+    align-content: center;
+}
